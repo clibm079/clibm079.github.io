@@ -7,6 +7,6 @@ Initial release: GitHub homepage (done!)
 
 All content is provided strictly for educational and defensive purposes.
 
-Seeker(李标明)·@clibm079
-Independent Malware Analyst & Researcher
+Seeker(李标明)·@clibm079   
+Independent Malware Analyst & Researcher   
 China
