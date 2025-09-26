@@ -12,6 +12,9 @@ Version History
 ## v1.0.2 (2025-09-26)
 - adding Homepage: clibm079.github.io (also clibm079.net).
 - adding Mastodon (infosec.exchange): @clibm079.
+- adding Observation as following:
+- To truly understand an adversary, you must rise to — or beyond — their depth. Because only depth reveals intent.
+- Top-tier APTs often strike unexpectedly, create new custom rules on targets—such as algorithms, protocols, or novel file system formats—and deploy closely interrelated multi-stage payloads loaded in both user and kernel modes.
 ---
 
 
