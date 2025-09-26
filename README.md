@@ -9,6 +9,11 @@ Version History
 - Updated the homepage to clearly reflect my research, official accounts, and ongoing work in a concise, professional style.
 ---
 
+## v1.0.2 (2025-09-26)
+- adding Homepage: clibm079.github.io (also clibm079.net).
+- adding Mastodon (infosec.exchange): @clibm079.
+---
+
 
 All content is provided strictly for educational and defensive purposes.
 
