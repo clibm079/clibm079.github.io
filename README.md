@@ -24,6 +24,11 @@ Version History
 - Regin: Static Analysis of Its Lightweight VFS Abstraction Layer
 ---
 
+## v1.0.2 (2025-11-21) 
+#### adding Observation (insights from analysisas and research) following:
+- PE-bear: The Art of Intuitive Malware Analysis.
+---
+
 All content is provided strictly for educational and defensive purposes.
 
 Seeker(李标明) · @clibm079    
