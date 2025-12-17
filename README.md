@@ -27,7 +27,8 @@ Version History
 ## v1.0.2 
 #### adding Observation (insights from analysisas and research) following:
 - PE-bear: The Art of Intuitive Malware Analysis. (2025-11-21)  
---Revisiting LoJax: The First UEFI Rootkit Found in the Wild. (2025-12-17) 
+- Revisiting LoJax: The First UEFI Rootkit Found in the Wild. (2025-12-17)
+---
 
 All content is provided strictly for educational and defensive purposes.
 
