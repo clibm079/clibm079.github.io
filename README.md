@@ -34,6 +34,11 @@ Version History
 - Revisiting LoJax: The First UEFI Rootkit Found in the Wild. 
 ---
 
+## v1.0.2 (2026-01-02)
+#### adding Observation (insights from analysisas and research) following: 
+- Revisiting LoJax: Supplementary Analysis and Research Notes. 
+---
+
 All content is provided strictly for educational and defensive purposes.
 
 Seeker(李标明) · @clibm079    
