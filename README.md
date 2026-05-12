@@ -39,6 +39,11 @@ Version History
 - Revisiting LoJax: Supplementary Analysis and Research Notes. 
 ---
 
+## v1.0.2 (2026-05-12)
+#### adding Observation (insights from analysisas and research) following: 
+- Revisiting Stuxnet: Research Note. 
+---
+
 All content is provided strictly for educational and defensive purposes.
 
 Seeker(李标明) · @clibm079    
