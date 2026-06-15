@@ -44,6 +44,13 @@ Version History
 - Revisiting Stuxnet: Research Note. 
 ---
 
+## v1.0.3 (2026-06-15)
+#### Updated it with a clean layout: 
+- Changed header to Observation & Insights.
+- Converted the timeline into a simple Archive List.
+- Optimized fonts and spacing for better reading on desktop and mobile. 
+---
+
 All content is provided strictly for educational and defensive purposes.
 
 Seeker(李标明) · @clibm079    
